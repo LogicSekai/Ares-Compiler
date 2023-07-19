@@ -1,0 +1,41 @@
+{
+  "name": "ares-compiler-api",
+  "version": "1.0.0",
+  "description": "Compiler tool for Arduino .ino files to .hex files",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogicSekai/Ares-Compiler-Api.git"
+  },
+  "keywords": [
+    "Ares",
+    "Compiler",
+    "API",
+    "Arduino",
+    ".ino file",
+    ".hex file",
+    "Arduino IDE",
+    "Upload",
+    "Compile",
+    "Microcontroller",
+    "Embedded Systems",
+    "Web-based",
+    "Firmware Development",
+    "Web Development",
+    "IoT",
+    "Sketches",
+    "Embedded Programming",
+    "Code Conversion",
+    "Hexadecimal",
+    "Microcontroller Development"
+  ],
+  "author": "Yusuf Ikhwanul Karim (Kwaii) - Logic Sekai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LogicSekai/Ares-Compiler-Api/issues"
+  },
+  "homepage": "https://github.com/LogicSekai/Ares-Compiler-Api#readme"
+}
